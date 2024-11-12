@@ -1,0 +1,86 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #EEE;
+    display: grid;
+    place-items: center;
+}
+
+form{
+    padding: 20px;
+    margin: 20px 50px 20px 50px ;
+    height: 1000px;
+    width: 500px;
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0 2px 3pxrgb(162, 157, 157) ;
+    border: 1px solid rgb(98, 93, 93);
+   
+}
+div{
+    margin-top: 30px;
+}
+label{
+    margin: 20px;
+}
+#name{
+    margin-right: 10px;
+    border: none;
+    border-bottom: 1px solid black;
+    width: 300px;
+    height: 25px;
+}
+
+.female{
+    margin-left: 68px;
+    /* margin-bottom: 20px; */
+}
+
+
+#date{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 300px;
+    height: 25px;
+   
+}
+#major{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 300px;
+    height: 25px;
+    
+} 
+#email{
+    border: none;
+    border-bottom: 1px solid black;
+    width: 300px;
+    height: 25px;
+    margin-bottom: 20px;
+
+}
+#experience{
+    border: none;
+    border-bottom: 1px solid black;
+}
+.sex{
+    margin-top: 40px;
+}
+textarea{
+    margin-top: 10px;
+    width: 500px;
+    height: 300px;
+    resize: none;
+    line-height: 1.5;
+}
+p{
+    font-size: 30px;
+    font-weight: bold;
+    margin: 20px 160px;
+    border-bottom: 2px solid black;
+}
+.level{
+    margin-left: 80px;
+}
